@@ -1,0 +1,76 @@
+<adif_ver:5>3.0.8
+<created_timestamp:14>20221112 00:24
+<programid:7>termlog
+<programversion:6>v0.2.0
+<my_name:5>Dusan
+<my_gridsquare:6>KN04bi
+<my_city:8>Lajkovac
+<my_cnty:6>Serbia
+<operator:5>YT1DL
+<eoh>
+
+<qso_date:8>20221112
+<time_on:4>0030
+<qso_date_off:8>20221112
+<time_off:4>0031
+<call:4>N8NQ
+<mode:3>FT8
+<freq:9>10.138381
+<band:3>30m
+<rst_sent:3>-17
+<rst_rcvd:3>-08
+<gridsquare:4>EN82
+<comment:25>FT8  Sent: -17  Rcvd: -08
+<country:13>United States
+<dxcc:3>291
+<eor>
+
+<qso_date:8>20221112
+<time_on:4>0046
+<qso_date_off:8>20221112
+<time_off:4>0046
+<call:4>K1HC
+<mode:3>FT8
+<freq:9>10.138583
+<band:3>30m
+<rst_sent:3>-13
+<rst_rcvd:3>-08
+<gridsquare:4>FN53
+<comment:25>FT8  Sent: -13  Rcvd: -08
+<country:13>United States
+<dxcc:3>291
+<eor>
+
+<qso_date:8>20221112
+<time_on:4>2159
+<qso_date_off:8>20221112
+<time_off:4>2200
+<call:5>EA1FK
+<mode:3>FT8
+<freq:9>10.138574
+<band:3>30m
+<rst_sent:3>-10
+<rst_rcvd:3>+01
+<gridsquare:4>IN52
+<comment:25>FT8  Sent: -10  Rcvd: +01
+<country:5>Spain
+<dxcc:3>281
+<eor>
+
+<qso_date:8>20221112
+<time_on:4>2202
+<qso_date_off:8>20221112
+<time_off:4>2202
+<call:5>KF9UG
+<mode:3>FT8
+<freq:9>10.138574
+<band:3>30m
+<rst_sent:3>-21
+<rst_rcvd:3>-17
+<gridsquare:4>EN71
+<comment:25>FT8  Sent: -21  Rcvd: -17
+<name:13>MICHAEL D DAY
+<country:13>United States
+<dxcc:3>291
+<eor>
+
