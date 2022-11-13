@@ -138,3 +138,52 @@
 <dxcc:3>202
 <eor>
 
+<qso_date:8>20221113
+<time_on:4>1524
+<qso_date_off:8>20221113
+<time_off:4>1525
+<call:5>F5RMK
+<mode:3>FT8
+<freq:9>10.136712
+<band:3>30m
+<rst_sent:3>-15
+<rst_rcvd:3>-06
+<gridsquare:4>IN98
+<comment:25>FT8  Sent: -15  Rcvd: -06
+<country:6>France
+<dxcc:3>227
+<eor>
+
+<qso_date:8>20221113
+<time_on:4>1528
+<qso_date_off:8>20221113
+<time_off:4>1529
+<call:4>R3FO
+<mode:3>FT8
+<freq:9>10.138479
+<band:3>30m
+<rst_sent:3>+00
+<rst_rcvd:3>+04
+<gridsquare:6>KO86ri
+<name:4>NICK
+<comment:25>FT8  Sent: +00  Rcvd: +04
+<country:15>European Russia
+<dxcc:2>54
+<eor>
+
+<qso_date:8>20221113
+<time_on:4>1529
+<qso_date_off:8>20221113
+<time_off:4>1530
+<call:4>RV6F
+<mode:3>FT8
+<freq:9>10.138479
+<band:3>30m
+<rst_sent:3>-02
+<rst_rcvd:3>+05
+<gridsquare:4>LN14
+<comment:25>FT8  Sent: -02  Rcvd: +05
+<country:15>European Russia
+<dxcc:2>54
+<eor>
+
