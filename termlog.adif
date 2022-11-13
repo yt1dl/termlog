@@ -256,3 +256,40 @@
 <lotw_qslsdate:8>20221113
 <eor>
 
+<qso_date:8>20221113
+<time_on:4>2303
+<qso_date_off:8>20221113
+<time_off:4>2305
+<call:6>CS7BHW
+<mode:3>FT8
+<freq:9>10.138084
+<band:3>30m
+<rst_sent:3>-07
+<rst_rcvd:3>-05
+<gridsquare:4>IN51
+<comment:25>FT8  Sent: -07  Rcvd: -05
+<country:8>Portugal
+<dxcc:3>272
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221114
+<eor>
+
+<qso_date:8>20221113
+<time_on:4>2308
+<qso_date_off:8>20221113
+<time_off:4>2310
+<call:5>WV8CQ
+<mode:3>FT8
+<freq:9>10.137296
+<band:3>30m
+<rst_sent:3>-19
+<rst_rcvd:3>-14
+<gridsquare:4>EM98
+<comment:25>FT8  Sent: -19  Rcvd: -14
+<name:15>THOMAS S BAILEY
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221114
+<eor>
+
