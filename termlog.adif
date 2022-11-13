@@ -106,3 +106,19 @@
 <dxcc:3>291
 <eor>
 
+<qso_date:8>20221113
+<time_on:4>0046
+<qso_date_off:8>20221113
+<time_off:4>0047
+<call:6>KD8WBZ
+<mode:3>FT8
+<freq:9>10.136257
+<band:3>30m
+<rst_sent:3>-16
+<rst_rcvd:3>-13
+<gridsquare:4>EN81
+<comment:25>FT8  Sent: -16  Rcvd: -13
+<country:13>United States
+<dxcc:3>291
+<eor>
+
