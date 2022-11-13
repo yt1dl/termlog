@@ -138,3 +138,19 @@
 <dxcc:3>291
 <eor>
 
+<qso_date:8>20221113
+<time_on:4>0104
+<qso_date_off:8>20221113
+<time_off:4>0105
+<call:4>W6DR
+<mode:3>FT8
+<freq:9>10.138766
+<band:3>30m
+<rst_sent:3>-12
+<rst_rcvd:3>-15
+<gridsquare:4>CM87
+<comment:25>FT8  Sent: -12  Rcvd: -15
+<country:13>United States
+<dxcc:3>291
+<eor>
+
