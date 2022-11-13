@@ -123,18 +123,14 @@
 <eor>
 
 <qso_date:8>20221113
-<time_on:4>0100
-<qso_date_off:8>20221113
-<time_off:4>0100
-<call:4>ND7C
-<mode:3>FT8
-<freq:9>10.137956
-<band:3>30m
-<rst_sent:3>-18
-<rst_rcvd:3>-13
-<gridsquare:4>EM36
-<comment:25>FT8  Sent: -18  Rcvd: -13
-<country:13>United States
-<dxcc:3>291
+<time_on:4>0124
+<call:6>YU1GTU
+<freq:5>3.500
+<band:3>80m
+<rst_sent:2>59
+<rst_rcvd:2>59
+<gridsquare:6>KN04MA
+<dxcc:3>296
+<distance:4>82.0
 <eor>
 
