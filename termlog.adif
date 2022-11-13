@@ -187,3 +187,40 @@
 <dxcc:2>54
 <eor>
 
+<qso_date:8>20221113
+<time_on:4>2224
+<qso_date_off:8>20221113
+<time_off:4>2225
+<call:4>EA4D
+<mode:3>FT8
+<freq:9>10.138602
+<band:3>30m
+<rst_sent:3>-05
+<rst_rcvd:3>+02
+<gridsquare:4>IN80
+<comment:25>FT8  Sent: -05  Rcvd: +02
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221113
+<eor>
+
+<qso_date:8>20221113
+<time_on:4>2231
+<qso_date_off:8>20221113
+<time_off:4>2232
+<call:5>N4FUR
+<mode:3>FT8
+<freq:9>10.138159
+<band:3>30m
+<rst_sent:3>-25
+<rst_rcvd:3>-23
+<gridsquare:4>EL99
+<comment:25>FT8  Sent: -25  Rcvd: -23
+<name:16>WILLIAM R MOQUIN
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221113
+<eor>
+
