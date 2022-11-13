@@ -122,3 +122,19 @@
 <dxcc:3>291
 <eor>
 
+<qso_date:8>20221113
+<time_on:4>0256
+<qso_date_off:8>20221113
+<time_off:4>0256
+<call:5>NP4BM
+<mode:3>FT8
+<freq:9>10.138052
+<band:3>30m
+<rst_sent:3>-18
+<rst_rcvd:3>-18
+<gridsquare:4>FK68
+<comment:25>FT8  Sent: -18  Rcvd: -18
+<country:11>Puerto Rico
+<dxcc:3>202
+<eor>
+
