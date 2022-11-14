@@ -327,6 +327,10 @@
 <dxcc:2>54
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221114
+<lotw_qslrdate:8>20221114
 <eor>
 
 <qso_date:8>20221114
@@ -381,6 +385,10 @@
 <dxcc:3>263
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221114
+<lotw_qslrdate:8>20221114
 <eor>
 
 <qso_date:8>20221114
@@ -400,6 +408,10 @@
 <dxcc:3>230
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221114
+<lotw_qslrdate:8>20221114
 <eor>
 
 <qso_date:8>20221114
@@ -418,6 +430,10 @@
 <dxcc:3>336
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221114
+<lotw_qslrdate:8>20221114
 <eor>
 
 <qso_date:8>20221114
@@ -508,6 +524,10 @@
 <dxcc:3>318
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221114
+<lotw_qslrdate:8>20221114
 <eor>
 
 <qso_date:8>20221114
@@ -542,6 +562,24 @@
 <gridsquare:6>PM96EJ
 <country:5>Japan
 <dxcc:3>339
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221114
+<eor>
+
+<qso_date:8>20221114
+<time_on:4>2237
+<qso_date_off:8>20221114
+<time_off:4>2238
+<call:4>EC3A
+<mode:3>FT8
+<freq:9>14.076593
+<band:3>20m
+<rst_sent:3>-04
+<rst_rcvd:3>-04
+<gridsquare:4>JN00
+<comment:25>FT8  Sent: -04  Rcvd: -04
+<country:5>Spain
+<dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
 <eor>
