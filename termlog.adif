@@ -614,12 +614,6 @@
 <comment:25>FT8  Sent: -18  Rcvd: -18
 <country:5>Spain
 <dxcc:3>281
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -638,12 +632,6 @@
 <comment:25>FT8  Sent: -03  Rcvd: -09
 <country:5>Italy
 <dxcc:3>248
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -662,12 +650,6 @@
 <comment:25>FT8  Sent: +03  Rcvd: -24
 <country:11>Switzerland
 <dxcc:3>287
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -686,12 +668,6 @@
 <gridsquare:6>IO92GS
 <country:7>England
 <dxcc:3>223
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -710,12 +686,6 @@
 <comment:25>FT8  Sent: -15  Rcvd: -07
 <country:8>Guernsey
 <dxcc:3>106
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -734,12 +704,6 @@
 <gridsquare:6>KM65MA
 <country:6>Cyprus
 <dxcc:3>215
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -758,12 +722,6 @@
 <gridsquare:6>IN70NI
 <country:5>Spain
 <dxcc:3>281
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -782,12 +740,6 @@
 <comment:25>FT4  Sent: +06  Rcvd: -05
 <country:5>Italy
 <dxcc:3>248
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -807,12 +759,6 @@
 <comment:25>FT4  Sent: -08  Rcvd: -11
 <country:7>England
 <dxcc:3>223
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -831,12 +777,6 @@
 <gridsquare:6>KN01AA
 <country:7>Albania
 <dxcc:1>7
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -855,12 +795,6 @@
 <comment:25>FT4  Sent: -15  Rcvd: -05
 <country:7>Ireland
 <dxcc:3>245
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -915,6 +849,24 @@
 <comment:25>FT4  Sent: -12  Rcvd: -08
 <country:11>Netherlands
 <dxcc:3>263
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221116
+<eor>
+
+<qso_date:8>20221116
+<time_on:4>2152
+<qso_date_off:8>20221116
+<time_off:4>2153
+<call:6>EA3IMR
+<mode:3>FT8
+<freq:9>14.076609
+<band:3>20m
+<rst_sent:3>-09
+<rst_rcvd:3>-19
+<gridsquare:4>JN11
+<comment:25>FT8  Sent: -09  Rcvd: -19
+<country:5>Spain
+<dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
 <eor>
