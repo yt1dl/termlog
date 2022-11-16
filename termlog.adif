@@ -901,3 +901,21 @@
 <lotw_qslsdate:8>20221116
 <eor>
 
+<qso_date:8>20221116
+<time_on:4>2144
+<qso_date_off:8>20221116
+<time_off:4>2145
+<call:4>PC5W
+<mode:3>FT4
+<freq:8>7.050305
+<band:3>40m
+<rst_sent:3>-12
+<rst_rcvd:3>-08
+<gridsquare:4>JO20
+<comment:25>FT4  Sent: -12  Rcvd: -08
+<country:11>Netherlands
+<dxcc:3>263
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221116
+<eor>
+
