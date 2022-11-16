@@ -634,6 +634,10 @@
 <dxcc:3>248
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221115
@@ -670,6 +674,10 @@
 <dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221115
@@ -742,6 +750,10 @@
 <dxcc:3>248
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221115
@@ -779,6 +791,10 @@
 <dxcc:1>7
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221115
@@ -797,6 +813,10 @@
 <dxcc:3>245
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221116
@@ -869,6 +889,10 @@
 <dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221116
