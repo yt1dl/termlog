@@ -594,6 +594,10 @@
 <dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221114
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221115
+<lotw_qslrdate:8>20221115
 <eor>
 
 <qso_date:8>20221115
@@ -616,7 +620,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -640,7 +644,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -664,7 +668,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -688,7 +692,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -712,7 +716,31 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
+<lotw_qslsdate:8>20221115
+<eor>
+
+<qso_date:8>20221115
+<time_on:4>2053
+<qso_date_off:8>20221115
+<time_off:4>2053
+<call:6>5B4AMH
+<mode:3>FT4
+<freq:8>7.049862
+<band:3>40m
+<rst_sent:3>+09
+<rst_rcvd:3>+11
+<comment:25>FT4  Sent: +09  Rcvd: +11
+<gridsquare:6>KM65MA
+<country:6>Cyprus
+<dxcc:3>215
+<call:5>YT1DL
+<my_gridsquare:6>KN04bi
+<my_city:8>Lajkovac
+<my_cnty:6>Serbia
+<my_antenna:7>SKYLOOP
+<tx_pwr:3>100
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -736,29 +764,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<eor>
-
-<qso_date:8>20221115
-<time_on:4>2053
-<qso_date_off:8>20221115
-<time_off:4>2053
-<call:6>5B4AMH
-<mode:3>FT4
-<freq:8>7.049862
-<band:3>40m
-<rst_sent:3>+09
-<rst_rcvd:3>+11
-<comment:25>FT4  Sent: +09  Rcvd: +11
-<gridsquare:6>KM65MA
-<country:6>Cyprus
-<dxcc:3>215
-<call:5>YT1DL
-<my_gridsquare:6>KN04bi
-<my_city:8>Lajkovac
-<my_cnty:6>Serbia
-<my_antenna:7>SKYLOOP
-<tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -782,7 +788,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -807,7 +813,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -831,7 +837,7 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
 <eor>
 
@@ -855,7 +861,43 @@
 <my_cnty:6>Serbia
 <my_antenna:7>SKYLOOP
 <tx_pwr:3>100
-<lotw_qsl_sent:1>Y
+<lotw_qsl_sent:1>N
 <lotw_qslsdate:8>20221115
+<eor>
+
+<qso_date:8>20221116
+<time_on:4>2121
+<qso_date_off:8>20221116
+<time_off:4>2121
+<call:5>I3WXX
+<mode:3>FT4
+<freq:8>7.049178
+<band:3>40m
+<rst_sent:3>-03
+<rst_rcvd:3>+10
+<gridsquare:4>JN55
+<comment:25>FT4  Sent: -03  Rcvd: +10
+<country:5>Italy
+<dxcc:3>248
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221116
+<eor>
+
+<qso_date:8>20221116
+<time_on:4>2122
+<qso_date_off:8>20221116
+<time_off:4>2122
+<call:6>PE1OPK
+<mode:3>FT4
+<freq:7>7.04895
+<band:3>40m
+<rst_sent:3>-12
+<rst_rcvd:3>+00
+<gridsquare:4>JO23
+<comment:25>FT4  Sent: -12  Rcvd: +00
+<country:11>Netherlands
+<dxcc:3>263
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221116
 <eor>
 
