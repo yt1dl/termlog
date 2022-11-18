@@ -773,6 +773,10 @@
 <dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221117
+<lotw_qslrdate:8>20221117
 <eor>
 
 <qso_date:8>20221115
@@ -871,6 +875,10 @@
 <dxcc:3>263
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221116
@@ -929,6 +937,10 @@
 <dxcc:2>54
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221118
+<lotw_qslrdate:8>20221118
 <eor>
 
 <qso_date:8>20221116
@@ -947,6 +959,10 @@
 <dxcc:3>279
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221116
@@ -965,6 +981,10 @@
 <dxcc:3>390
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221118
+<lotw_qslrdate:8>20221118
 <eor>
 
 <qso_date:8>20221116
@@ -984,6 +1004,10 @@
 <dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
 <eor>
 
 <qso_date:8>20221116
@@ -1002,5 +1026,45 @@
 <dxcc:3>265
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221116
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221116
+<lotw_qslrdate:8>20221116
+<eor>
+
+<qso_date:8>20221118
+<time_on:4>2234
+<qso_date_off:8>20221118
+<time_off:4>2237
+<call:5>5P6MJ
+<mode:3>FT4
+<freq:8>7.048266
+<band:3>40m
+<rst_sent:3>+01
+<rst_rcvd:3>-11
+<gridsquare:4>JO54
+<comment:25>FT4  Sent: +01  Rcvd: -11
+<country:7>Denmark
+<dxcc:3>221
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221118
+<eor>
+
+<qso_date:8>20221118
+<time_on:4>2247
+<qso_date_off:8>20221118
+<time_off:4>2248
+<call:6>EB2EMZ
+<mode:3>FT8
+<freq:8>7.076509
+<band:3>40m
+<rst_sent:3>-09
+<rst_rcvd:3>-19
+<gridsquare:4>IN83
+<comment:25>FT8  Sent: -09  Rcvd: -19
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221118
 <eor>
 
