@@ -616,6 +616,10 @@
 <dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221119
+<lotw_qslrdate:8>20221119
 <eor>
 
 <qso_date:8>20221115
@@ -1048,6 +1052,10 @@
 <dxcc:3>221
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221118
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221118
+<lotw_qslrdate:8>20221118
 <eor>
 
 <qso_date:8>20221118
@@ -1066,5 +1074,27 @@
 <dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221118
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221118
+<lotw_qslrdate:8>20221118
+<eor>
+
+<qso_date:8>20221119
+<time_on:4>1913
+<qso_date_off:8>20221119
+<time_off:4>1914
+<call:6>UB6LMZ
+<mode:3>FT4
+<freq:8>7.049254
+<band:3>40m
+<rst_sent:3>-13
+<rst_rcvd:3>+05
+<gridsquare:4>KN97
+<comment:25>FT4  Sent: -13  Rcvd: +05
+<country:15>European Russia
+<dxcc:2>54
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221119
 <eor>
 
