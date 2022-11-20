@@ -1168,6 +1168,10 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1186,6 +1190,32 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>0205
+<qso_date_off:8>20221120
+<time_off:4>0206
+<call:5>A41KB
+<mode:3>FT8
+<freq:8>7.075557
+<band:3>40m
+<rst_sent:3>-15
+<rst_rcvd:3>-18
+<gridsquare:4>LL93
+<comment:25>FT8  Sent: -15  Rcvd: -18
+<country:4>Oman
+<dxcc:3>370
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1207,24 +1237,6 @@
 <eor>
 
 <qso_date:8>20221120
-<time_on:4>0205
-<qso_date_off:8>20221120
-<time_off:4>0206
-<call:5>A41KB
-<mode:3>FT8
-<freq:8>7.075557
-<band:3>40m
-<rst_sent:3>-15
-<rst_rcvd:3>-18
-<gridsquare:4>LL93
-<comment:25>FT8  Sent: -15  Rcvd: -18
-<country:4>Oman
-<dxcc:3>370
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
 <time_on:4>0210
 <qso_date_off:8>20221120
 <time_off:4>0211
@@ -1240,24 +1252,10 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
-<time_on:4>0212
-<qso_date_off:8>20221120
-<time_off:4>0212
-<call:5>AB8WD
-<mode:3>FT4
-<freq:8>7.049813
-<band:3>40m
-<rst_sent:3>-04
-<rst_rcvd:3>-12
-<comment:25>FT4  Sent: -04  Rcvd: -12
-<gridsquare:6>EM47DM
-<country:13>United States
-<dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1276,6 +1274,32 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>0212
+<qso_date_off:8>20221120
+<time_off:4>0212
+<call:5>AB8WD
+<mode:3>FT4
+<freq:8>7.049813
+<band:3>40m
+<rst_sent:3>-04
+<rst_rcvd:3>-12
+<comment:25>FT4  Sent: -04  Rcvd: -12
+<gridsquare:6>EM47DM
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1294,6 +1318,10 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1310,6 +1338,267 @@
 <comment:25>FT4  Sent: -11  Rcvd: -12
 <country:13>United States
 <dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1305
+<qso_date_off:8>20221120
+<time_off:4>1306
+<call:6>YD1ERV
+<mode:3>FT8
+<freq:9>21.076413
+<band:3>15m
+<rst_sent:3>-09
+<rst_rcvd:3>-08
+<gridsquare:4>OI43
+<comment:25>FT8  Sent: -09  Rcvd: -08
+<country:9>Indonesia
+<dxcc:3>327
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1308
+<qso_date_off:8>20221120
+<time_off:4>1309
+<call:6>YF1ACL
+<mode:3>FT8
+<freq:9>21.074529
+<band:3>15m
+<rst_sent:3>-08
+<rst_rcvd:3>-14
+<gridsquare:4>OI33
+<comment:25>FT8  Sent: -08  Rcvd: -14
+<country:9>Indonesia
+<dxcc:3>327
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1311
+<qso_date_off:8>20221120
+<time_off:4>1311
+<call:4>W8KF
+<mode:3>FT4
+<freq:9>21.140206
+<band:3>15m
+<rst_sent:3>-04
+<rst_rcvd:3>-08
+<gridsquare:4>EN81
+<comment:25>FT4  Sent: -04  Rcvd: -08
+<name:19>CLAIR D CHURCH, II.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1312
+<qso_date_off:8>20221120
+<time_off:4>1312
+<call:6>YC1MRF
+<mode:3>FT4
+<freq:9>21.142259
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>-05
+<gridsquare:4>OI43
+<comment:25>FT4  Sent: -03  Rcvd: -05
+<country:9>Indonesia
+<dxcc:3>327
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1313
+<qso_date_off:8>20221120
+<time_off:4>1314
+<call:5>N8NZM
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-05
+<rst_rcvd:3>-15
+<comment:25>FT4  Sent: -05  Rcvd: -15
+<name:13>ROBERT L HYRE
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1315
+<qso_date_off:8>20221120
+<time_off:4>1315
+<call:6>EA1EYE
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>+00
+<rst_rcvd:3>+10
+<gridsquare:6>IN81ss
+<name:8>FERNANDO
+<comment:25>FT4  Sent: +00  Rcvd: +10
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1318
+<qso_date_off:8>20221120
+<time_off:4>1318
+<call:4>KB8U
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>+05
+<rst_rcvd:3>+05
+<gridsquare:4>EN71
+<comment:25>FT4  Sent: +05  Rcvd: +05
+<name:19>RUSSELL J DWARSHUIS
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1319
+<qso_date_off:8>20221120
+<time_off:4>1320
+<call:4>WE3J
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>-11
+<gridsquare:4>EM97
+<comment:25>FT4  Sent: -03  Rcvd: -11
+<name:12>GARY L SCOTT
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1319
+<qso_date_off:8>20221120
+<time_off:4>1319
+<call:6>WA8QYJ
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-08
+<rst_rcvd:3>-12
+<gridsquare:4>EL96
+<comment:25>FT4  Sent: -08  Rcvd: -12
+<name:19>ROBERT H BRADY, SR.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1320
+<qso_date_off:8>20221120
+<time_off:4>1321
+<call:6>YC2CKY
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>-02
+<gridsquare:4>OI42
+<comment:25>FT4  Sent: -03  Rcvd: -02
+<country:9>Indonesia
+<dxcc:3>327
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1322
+<qso_date_off:8>20221120
+<time_off:4>1322
+<call:6>YC0RXA
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-06
+<rst_rcvd:3>-06
+<gridsquare:4>OI33
+<comment:25>FT4  Sent: -06  Rcvd: -06
+<country:9>Indonesia
+<dxcc:3>327
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1353
+<qso_date_off:8>20221120
+<time_off:4>1353
+<call:6>EA3EQT
+<mode:3>FT4
+<freq:9>21.141632
+<band:3>15m
+<rst_sent:3>+14
+<rst_rcvd:3>+11
+<comment:25>FT4  Sent: +14  Rcvd: +11
+<gridsquare:6>IN70NI
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1353
+<qso_date_off:8>20221120
+<time_off:4>1353
+<call:5>G3VMW
+<mode:3>FT4
+<freq:9>21.140625
+<band:3>15m
+<rst_sent:3>+13
+<rst_rcvd:3>+04
+<gridsquare:4>IO93
+<comment:25>FT4  Sent: +13  Rcvd: +04
+<country:7>England
+<dxcc:3>223
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1356
+<qso_date_off:8>20221120
+<time_off:4>1356
+<call:6>DL7ARV
+<mode:3>FT4
+<freq:9>14.082421
+<band:3>20m
+<rst_sent:3>-04
+<rst_rcvd:3>+01
+<gridsquare:4>JO62
+<comment:25>FT4  Sent: -04  Rcvd: +01
+<country:20>Fed. Rep. of Germany
+<dxcc:3>230
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
 <eor>
