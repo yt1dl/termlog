@@ -705,24 +705,6 @@
 <qso_date:8>20221115
 <time_on:4>2053
 <qso_date_off:8>20221115
-<time_off:4>2053
-<call:6>5B4AMH
-<mode:3>FT4
-<freq:8>7.049862
-<band:3>40m
-<rst_sent:3>+09
-<rst_rcvd:3>+11
-<comment:25>FT4  Sent: +09  Rcvd: +11
-<gridsquare:6>KM65MA
-<country:6>Cyprus
-<dxcc:3>215
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221115
-<eor>
-
-<qso_date:8>20221115
-<time_on:4>2053
-<qso_date_off:8>20221115
 <time_off:4>2054
 <call:6>EA1FHQ
 <mode:3>FT4
@@ -734,6 +716,24 @@
 <gridsquare:6>IN70NI
 <country:5>Spain
 <dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221115
+<eor>
+
+<qso_date:8>20221115
+<time_on:4>2053
+<qso_date_off:8>20221115
+<time_off:4>2053
+<call:6>5B4AMH
+<mode:3>FT4
+<freq:8>7.049862
+<band:3>40m
+<rst_sent:3>+09
+<rst_rcvd:3>+11
+<comment:25>FT4  Sent: +09  Rcvd: +11
+<gridsquare:6>KM65MA
+<country:6>Cyprus
+<dxcc:3>215
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -1261,14 +1261,14 @@
 <qso_date:8>20221120
 <time_on:4>0212
 <qso_date_off:8>20221120
-<time_off:4>0213
-<call:6>KA9JCP
+<time_off:4>0212
+<call:5>AB8WD
 <mode:3>FT4
-<freq:8>7.049648
+<freq:8>7.049813
 <band:3>40m
-<rst_sent:3>-08
-<rst_rcvd:3>-19
-<comment:25>FT4  Sent: -08  Rcvd: -19
+<rst_sent:3>-04
+<rst_rcvd:3>-12
+<comment:25>FT4  Sent: -04  Rcvd: -12
 <gridsquare:6>EM47DM
 <country:13>United States
 <dxcc:3>291
@@ -1283,14 +1283,14 @@
 <qso_date:8>20221120
 <time_on:4>0212
 <qso_date_off:8>20221120
-<time_off:4>0212
-<call:5>AB8WD
+<time_off:4>0213
+<call:6>KA9JCP
 <mode:3>FT4
-<freq:8>7.049813
+<freq:8>7.049648
 <band:3>40m
-<rst_sent:3>-04
-<rst_rcvd:3>-12
-<comment:25>FT4  Sent: -04  Rcvd: -12
+<rst_sent:3>-08
+<rst_rcvd:3>-19
+<comment:25>FT4  Sent: -08  Rcvd: -19
 <gridsquare:6>EM47DM
 <country:13>United States
 <dxcc:3>291
@@ -1478,25 +1478,6 @@
 <qso_date:8>20221120
 <time_on:4>1319
 <qso_date_off:8>20221120
-<time_off:4>1320
-<call:4>WE3J
-<mode:3>FT4
-<freq:9>21.142432
-<band:3>15m
-<rst_sent:3>-03
-<rst_rcvd:3>-11
-<gridsquare:4>EM97
-<comment:25>FT4  Sent: -03  Rcvd: -11
-<name:12>GARY L SCOTT
-<country:13>United States
-<dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
-<time_on:4>1319
-<qso_date_off:8>20221120
 <time_off:4>1319
 <call:6>WA8QYJ
 <mode:3>FT4
@@ -1507,6 +1488,25 @@
 <gridsquare:4>EL96
 <comment:25>FT4  Sent: -08  Rcvd: -12
 <name:19>ROBERT H BRADY, SR.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1319
+<qso_date_off:8>20221120
+<time_off:4>1320
+<call:4>WE3J
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>-11
+<gridsquare:4>EM97
+<comment:25>FT4  Sent: -03  Rcvd: -11
+<name:12>GARY L SCOTT
 <country:13>United States
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
@@ -1597,6 +1597,42 @@
 <rst_rcvd:3>+01
 <gridsquare:4>JO62
 <comment:25>FT4  Sent: -04  Rcvd: +01
+<country:20>Fed. Rep. of Germany
+<dxcc:3>230
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1709
+<qso_date_off:8>20221120
+<time_off:4>1710
+<call:5>F8MRQ
+<mode:3>FT8
+<freq:9>21.075765
+<band:3>15m
+<rst_sent:3>-11
+<rst_rcvd:3>-23
+<gridsquare:4>JN17
+<comment:25>FT8  Sent: -11  Rcvd: -23
+<country:6>France
+<dxcc:3>227
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>2041
+<qso_date_off:8>20221120
+<time_off:4>2041
+<call:5>DF7KD
+<mode:3>FT4
+<freq:8>7.049752
+<band:3>40m
+<rst_sent:3>-18
+<rst_rcvd:3>-05
+<gridsquare:4>JO30
+<comment:25>FT4  Sent: -18  Rcvd: -05
 <country:20>Fed. Rep. of Germany
 <dxcc:3>230
 <lotw_qsl_sent:1>Y
