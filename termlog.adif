@@ -705,24 +705,6 @@
 <qso_date:8>20221115
 <time_on:4>2053
 <qso_date_off:8>20221115
-<time_off:4>2053
-<call:6>5B4AMH
-<mode:3>FT4
-<freq:8>7.049862
-<band:3>40m
-<rst_sent:3>+09
-<rst_rcvd:3>+11
-<comment:25>FT4  Sent: +09  Rcvd: +11
-<gridsquare:6>KM65MA
-<country:6>Cyprus
-<dxcc:3>215
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221115
-<eor>
-
-<qso_date:8>20221115
-<time_on:4>2053
-<qso_date_off:8>20221115
 <time_off:4>2054
 <call:6>EA1FHQ
 <mode:3>FT4
@@ -734,6 +716,24 @@
 <gridsquare:6>IN70NI
 <country:5>Spain
 <dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221115
+<eor>
+
+<qso_date:8>20221115
+<time_on:4>2053
+<qso_date_off:8>20221115
+<time_off:4>2053
+<call:6>5B4AMH
+<mode:3>FT4
+<freq:8>7.049862
+<band:3>40m
+<rst_sent:3>+09
+<rst_rcvd:3>+11
+<comment:25>FT4  Sent: +09  Rcvd: +11
+<gridsquare:6>KM65MA
+<country:6>Cyprus
+<dxcc:3>215
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221115
 <eor>
@@ -1265,14 +1265,14 @@
 <qso_date:8>20221120
 <time_on:4>0212
 <qso_date_off:8>20221120
-<time_off:4>0213
-<call:6>KA9JCP
+<time_off:4>0212
+<call:5>AB8WD
 <mode:3>FT4
-<freq:8>7.049648
+<freq:8>7.049813
 <band:3>40m
-<rst_sent:3>-08
-<rst_rcvd:3>-19
-<comment:25>FT4  Sent: -08  Rcvd: -19
+<rst_sent:3>-04
+<rst_rcvd:3>-12
+<comment:25>FT4  Sent: -04  Rcvd: -12
 <gridsquare:6>EM47DM
 <country:13>United States
 <dxcc:3>291
@@ -1287,14 +1287,14 @@
 <qso_date:8>20221120
 <time_on:4>0212
 <qso_date_off:8>20221120
-<time_off:4>0212
-<call:5>AB8WD
+<time_off:4>0213
+<call:6>KA9JCP
 <mode:3>FT4
-<freq:8>7.049813
+<freq:8>7.049648
 <band:3>40m
-<rst_sent:3>-04
-<rst_rcvd:3>-12
-<comment:25>FT4  Sent: -04  Rcvd: -12
+<rst_sent:3>-08
+<rst_rcvd:3>-19
+<comment:25>FT4  Sent: -08  Rcvd: -19
 <gridsquare:6>EM47DM
 <country:13>United States
 <dxcc:3>291
@@ -1490,6 +1490,25 @@
 <qso_date:8>20221120
 <time_on:4>1319
 <qso_date_off:8>20221120
+<time_off:4>1319
+<call:6>WA8QYJ
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-08
+<rst_rcvd:3>-12
+<gridsquare:4>EL96
+<comment:25>FT4  Sent: -08  Rcvd: -12
+<name:19>ROBERT H BRADY, SR.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1319
+<qso_date_off:8>20221120
 <time_off:4>1320
 <call:4>WE3J
 <mode:3>FT4
@@ -1508,25 +1527,6 @@
 <qsl_rcvd:1>Y
 <qslrdate:8>20221120
 <lotw_qslrdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
-<time_on:4>1319
-<qso_date_off:8>20221120
-<time_off:4>1319
-<call:6>WA8QYJ
-<mode:3>FT4
-<freq:9>21.142432
-<band:3>15m
-<rst_sent:3>-08
-<rst_rcvd:3>-12
-<gridsquare:4>EL96
-<comment:25>FT4  Sent: -08  Rcvd: -12
-<name:19>ROBERT H BRADY, SR.
-<country:13>United States
-<dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1661,5 +1661,79 @@
 <dxcc:3>230
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221124
+<time_on:4>2135
+<qso_date_off:8>20221124
+<time_off:4>2135
+<call:4>W2CG
+<mode:3>FT4
+<freq:8>7.049002
+<band:3>40m
+<rst_sent:3>-01
+<rst_rcvd:3>+01
+<gridsquare:4>FN20
+<comment:25>FT4  Sent: -01  Rcvd: +01
+<name:23>MARTIN J GROZINSKI, JR.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221124
+<eor>
+
+<qso_date:8>20221124
+<time_on:4>2136
+<qso_date_off:8>20221124
+<time_off:4>2138
+<call:5>KC1FX
+<mode:3>FT4
+<freq:5>7.049
+<band:3>40m
+<rst_sent:3>-14
+<rst_rcvd:3>+01
+<gridsquare:4>FN44
+<comment:25>FT4  Sent: -14  Rcvd: +01
+<name:13>GARY W MILLER
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221124
+<eor>
+
+<qso_date:8>20221124
+<time_on:4>2154
+<qso_date_off:8>20221124
+<time_off:4>2154
+<call:6>EA1FLJ
+<mode:3>FT4
+<freq:5>7.049
+<band:3>40m
+<rst_sent:3>-14
+<rst_rcvd:3>+04
+<gridsquare:4>IN52
+<comment:25>FT4  Sent: -14  Rcvd: +04
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221124
+<eor>
+
+<qso_date:8>20221124
+<time_on:4>2205
+<qso_date_off:8>20221124
+<time_off:4>2206
+<call:5>EA4ON
+<mode:3>FT4
+<freq:8>7.049478
+<band:3>40m
+<rst_sent:3>-11
+<rst_rcvd:3>-04
+<gridsquare:4>IN80
+<comment:25>FT4  Sent: -11  Rcvd: -04
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221124
 <eor>
 
