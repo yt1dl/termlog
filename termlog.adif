@@ -1154,6 +1154,10 @@
 <dxcc:2>54
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221121
+<lotw_qslrdate:8>20221121
 <eor>
 
 <qso_date:8>20221120
@@ -1203,6 +1207,24 @@
 <qso_date:8>20221120
 <time_on:4>0205
 <qso_date_off:8>20221120
+<time_off:4>0207
+<call:5>F5RAV
+<mode:3>FT8
+<freq:8>7.076431
+<band:3>40m
+<rst_sent:3>-02
+<rst_rcvd:3>+06
+<comment:25>FT8  Sent: -02  Rcvd: +06
+<gridsquare:6>JN16AA
+<country:6>France
+<dxcc:3>227
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>0205
+<qso_date_off:8>20221120
 <time_off:4>0206
 <call:5>A41KB
 <mode:3>FT8
@@ -1220,24 +1242,6 @@
 <qsl_rcvd:1>Y
 <qslrdate:8>20221120
 <lotw_qslrdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
-<time_on:4>0205
-<qso_date_off:8>20221120
-<time_off:4>0207
-<call:5>F5RAV
-<mode:3>FT8
-<freq:8>7.076431
-<band:3>40m
-<rst_sent:3>-02
-<rst_rcvd:3>+06
-<comment:25>FT8  Sent: -02  Rcvd: +06
-<gridsquare:6>JN16AA
-<country:6>France
-<dxcc:3>227
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -1366,6 +1370,10 @@
 <dxcc:3>327
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221121
+<lotw_qslrdate:8>20221121
 <eor>
 
 <qso_date:8>20221120
@@ -1403,6 +1411,10 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221121
+<lotw_qslrdate:8>20221121
 <eor>
 
 <qso_date:8>20221120
@@ -1490,6 +1502,29 @@
 <qso_date:8>20221120
 <time_on:4>1319
 <qso_date_off:8>20221120
+<time_off:4>1319
+<call:6>WA8QYJ
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-08
+<rst_rcvd:3>-12
+<gridsquare:4>EL96
+<comment:25>FT4  Sent: -08  Rcvd: -12
+<name:19>ROBERT H BRADY, SR.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221121
+<lotw_qslrdate:8>20221121
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1319
+<qso_date_off:8>20221120
 <time_off:4>1320
 <call:4>WE3J
 <mode:3>FT4
@@ -1511,25 +1546,6 @@
 <eor>
 
 <qso_date:8>20221120
-<time_on:4>1319
-<qso_date_off:8>20221120
-<time_off:4>1319
-<call:6>WA8QYJ
-<mode:3>FT4
-<freq:9>21.142432
-<band:3>15m
-<rst_sent:3>-08
-<rst_rcvd:3>-12
-<gridsquare:4>EL96
-<comment:25>FT4  Sent: -08  Rcvd: -12
-<name:19>ROBERT H BRADY, SR.
-<country:13>United States
-<dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
 <time_on:4>1320
 <qso_date_off:8>20221120
 <time_off:4>1321
@@ -1545,6 +1561,10 @@
 <dxcc:3>327
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221121
+<lotw_qslrdate:8>20221121
 <eor>
 
 <qso_date:8>20221120
@@ -1569,16 +1589,16 @@
 <time_on:4>1353
 <qso_date_off:8>20221120
 <time_off:4>1353
-<call:6>EA3EQT
+<call:5>G3VMW
 <mode:3>FT4
-<freq:9>21.141632
+<freq:9>21.140625
 <band:3>15m
-<rst_sent:3>+14
-<rst_rcvd:3>+11
-<comment:25>FT4  Sent: +14  Rcvd: +11
-<gridsquare:6>IN70NI
-<country:5>Spain
-<dxcc:3>281
+<rst_sent:3>+13
+<rst_rcvd:3>+04
+<gridsquare:4>IO93
+<comment:25>FT4  Sent: +13  Rcvd: +04
+<country:7>England
+<dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
 <lotw_qsl_rcvd:1>Y
@@ -1591,16 +1611,16 @@
 <time_on:4>1353
 <qso_date_off:8>20221120
 <time_off:4>1353
-<call:5>G3VMW
+<call:6>EA3EQT
 <mode:3>FT4
-<freq:9>21.140625
+<freq:9>21.141632
 <band:3>15m
-<rst_sent:3>+13
-<rst_rcvd:3>+04
-<gridsquare:4>IO93
-<comment:25>FT4  Sent: +13  Rcvd: +04
-<country:7>England
-<dxcc:3>223
+<rst_sent:3>+14
+<rst_rcvd:3>+11
+<comment:25>FT4  Sent: +14  Rcvd: +11
+<gridsquare:6>IN70NI
+<country:5>Spain
+<dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
 <lotw_qsl_rcvd:1>Y
@@ -1643,6 +1663,10 @@
 <dxcc:3>227
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221123
+<lotw_qslrdate:8>20221123
 <eor>
 
 <qso_date:8>20221120
@@ -1661,6 +1685,10 @@
 <dxcc:3>230
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221121
+<lotw_qslrdate:8>20221121
 <eor>
 
 <qso_date:8>20221124
@@ -1680,6 +1708,10 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221124
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221125
+<lotw_qslrdate:8>20221125
 <eor>
 
 <qso_date:8>20221124
@@ -1699,6 +1731,10 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221124
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221124
+<lotw_qslrdate:8>20221124
 <eor>
 
 <qso_date:8>20221124
@@ -1933,5 +1969,210 @@
 <dxcc:2>54
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2226
+<qso_date_off:8>20221125
+<time_off:4>2227
+<call:4>RJ7M
+<mode:3>FT4
+<freq:8>7.049778
+<band:3>40m
+<rst_sent:3>+03
+<rst_rcvd:3>+02
+<gridsquare:4>KN97
+<comment:25>FT4  Sent: +03  Rcvd: +02
+<country:15>European Russia
+<dxcc:2>54
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2227
+<qso_date_off:8>20221125
+<time_off:4>2227
+<call:6>IU0OVB
+<mode:3>FT4
+<freq:8>7.049778
+<band:3>40m
+<rst_sent:3>+03
+<rst_rcvd:3>-13
+<comment:25>FT4  Sent: +03  Rcvd: -13
+<gridsquare:6>JN62GT
+<country:5>Italy
+<dxcc:3>248
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2228
+<qso_date_off:8>20221125
+<time_off:4>2228
+<call:6>PA3MVE
+<mode:3>FT4
+<freq:8>7.049778
+<band:3>40m
+<rst_sent:3>-01
+<rst_rcvd:3>+11
+<gridsquare:4>JO21
+<comment:25>FT4  Sent: -01  Rcvd: +11
+<country:11>Netherlands
+<dxcc:3>263
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2229
+<qso_date_off:8>20221125
+<time_off:4>2230
+<call:5>YT7DX
+<mode:3>FT4
+<freq:8>7.049778
+<band:3>40m
+<rst_sent:3>-02
+<rst_rcvd:3>-10
+<gridsquare:4>JN95
+<comment:25>FT4  Sent: -02  Rcvd: -10
+<country:6>Serbia
+<dxcc:3>296
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2229
+<qso_date_off:8>20221125
+<time_off:4>2230
+<call:5>KD4RE
+<mode:3>FT4
+<freq:8>7.049778
+<band:3>40m
+<rst_sent:3>-07
+<rst_rcvd:3>-08
+<gridsquare:4>FM18
+<comment:25>FT4  Sent: -07  Rcvd: -08
+<name:21>DONALD L GARLOCK, JR.
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2243
+<qso_date_off:8>20221125
+<time_off:4>2243
+<call:5>AI4UC
+<mode:3>FT4
+<freq:8>7.049778
+<band:3>40m
+<rst_sent:3>-15
+<rst_rcvd:3>-08
+<gridsquare:4>FM19
+<comment:25>FT4  Sent: -15  Rcvd: -08
+<name:17>ROBERT E SEASTROM
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221125
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2310
+<qso_date_off:8>20221125
+<time_off:4>2310
+<call:5>W3AND
+<mode:3>FT4
+<freq:8>7.048503
+<band:3>40m
+<rst_sent:3>-09
+<rst_rcvd:3>-16
+<gridsquare:4>FN10
+<comment:25>FT4  Sent: -09  Rcvd: -16
+<name:16>ANDREW D MUMMERT
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221126
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2313
+<qso_date_off:8>20221125
+<time_off:4>2313
+<call:5>N9PGG
+<mode:3>FT4
+<freq:8>7.048048
+<band:3>40m
+<rst_sent:3>-11
+<rst_rcvd:3>-03
+<gridsquare:4>FM05
+<comment:25>FT4  Sent: -11  Rcvd: -03
+<name:12>GREG R GABRY
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221126
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2322
+<qso_date_off:8>20221125
+<time_off:4>2322
+<call:6>KA1ZQX
+<mode:3>FT4
+<freq:8>7.048306
+<band:3>40m
+<rst_sent:3>-14
+<rst_rcvd:3>-09
+<gridsquare:4>FN33
+<comment:25>FT4  Sent: -14  Rcvd: -09
+<name:14>TIMOTHY K BELL
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221126
+<eor>
+
+<qso_date:8>20221125
+<time_on:4>2328
+<qso_date_off:8>20221125
+<time_off:4>2328
+<call:6>KE5HDE
+<mode:3>FT4
+<freq:8>7.049774
+<band:3>40m
+<rst_sent:3>-15
+<rst_rcvd:3>-07
+<gridsquare:4>FN12
+<comment:25>FT4  Sent: -15  Rcvd: -07
+<name:20>CHRISTOPHER J DURING
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221126
+<eor>
+
+<qso_date:8>20221126
+<time_on:4>0003
+<qso_date_off:8>20221126
+<time_off:4>0004
+<call:6>WB3IHY
+<mode:3>FT4
+<freq:8>7.048746
+<band:3>40m
+<rst_sent:3>-10
+<rst_rcvd:3>-14
+<gridsquare:4>FN20
+<comment:25>FT4  Sent: -10  Rcvd: -14
+<name:13>JOSEPH GARBER
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221126
 <eor>
 
