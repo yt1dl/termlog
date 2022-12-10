@@ -3557,24 +3557,6 @@
 <qso_date:8>20221205
 <time_on:4>1333
 <qso_date_off:8>20221205
-<time_off:4>1333
-<call:5>G4NVT
-<mode:3>FT4
-<freq:9>21.142186
-<band:3>15m
-<rst_sent:3>+04
-<rst_rcvd:3>+12
-<gridsquare:4>JO01
-<comment:25>FT4  Sent: +04  Rcvd: +12
-<country:7>England
-<dxcc:3>223
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221205
-<eor>
-
-<qso_date:8>20221205
-<time_on:4>1333
-<qso_date_off:8>20221205
 <time_off:4>1334
 <call:6>MW0CNA
 <mode:3>FT4
@@ -3586,6 +3568,24 @@
 <comment:25>FT4  Sent: +11  Rcvd: +03
 <country:5>Wales
 <dxcc:3>294
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221205
+<eor>
+
+<qso_date:8>20221205
+<time_on:4>1333
+<qso_date_off:8>20221205
+<time_off:4>1333
+<call:5>G4NVT
+<mode:3>FT4
+<freq:9>21.142186
+<band:3>15m
+<rst_sent:3>+04
+<rst_rcvd:3>+12
+<gridsquare:4>JO01
+<comment:25>FT4  Sent: +04  Rcvd: +12
+<country:7>England
+<dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221205
 <eor>
@@ -4083,24 +4083,6 @@
 <qso_date:8>20221207
 <time_on:4>1603
 <qso_date_off:8>20221207
-<time_off:4>1604
-<call:6>MW7TTA
-<mode:3>FT4
-<freq:9>14.081765
-<band:3>20m
-<rst_sent:3>-07
-<rst_rcvd:3>-05
-<gridsquare:4>IO73
-<comment:25>FT4  Sent: -07  Rcvd: -05
-<country:5>Wales
-<dxcc:3>294
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221207
-<eor>
-
-<qso_date:8>20221207
-<time_on:4>1603
-<qso_date_off:8>20221207
 <time_off:4>1603
 <call:5>4X5MZ
 <mode:3>FT4
@@ -4112,6 +4094,24 @@
 <comment:25>FT4  Sent: +02  Rcvd: +01
 <country:6>Israel
 <dxcc:3>336
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221207
+<eor>
+
+<qso_date:8>20221207
+<time_on:4>1603
+<qso_date_off:8>20221207
+<time_off:4>1604
+<call:6>MW7TTA
+<mode:3>FT4
+<freq:9>14.081765
+<band:3>20m
+<rst_sent:3>-07
+<rst_rcvd:3>-05
+<gridsquare:4>IO73
+<comment:25>FT4  Sent: -07  Rcvd: -05
+<country:5>Wales
+<dxcc:3>294
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221207
 <eor>
@@ -4407,5 +4407,77 @@
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221209
+<eor>
+
+<qso_date:8>20221209
+<time_on:4>1028
+<qso_date_off:8>20221209
+<time_off:4>1028
+<call:5>I2XIP
+<mode:3>FT4
+<freq:8>21.14204
+<band:3>15m
+<rst_sent:3>-05
+<rst_rcvd:3>-02
+<gridsquare:4>JN45
+<comment:25>FT4  Sent: -05  Rcvd: -02
+<country:5>Italy
+<dxcc:3>248
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221209
+<eor>
+
+<qso_date:8>20221209
+<time_on:4>1029
+<qso_date_off:8>20221209
+<time_off:4>1030
+<call:5>SP8LM
+<mode:3>FT4
+<freq:8>21.14204
+<band:3>15m
+<rst_sent:3>-12
+<rst_rcvd:3>-01
+<gridsquare:4>KN19
+<comment:25>FT4  Sent: -12  Rcvd: -01
+<country:6>Poland
+<dxcc:3>269
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221209
+<eor>
+
+<qso_date:8>20221209
+<time_on:4>1032
+<qso_date_off:8>20221209
+<time_off:4>1032
+<call:5>VK2EX
+<mode:3>FT4
+<freq:8>21.14204
+<band:3>15m
+<rst_sent:3>-05
+<rst_rcvd:3>-09
+<gridsquare:4>QF47
+<comment:25>FT4  Sent: -05  Rcvd: -09
+<country:9>Australia
+<dxcc:3>150
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221209
+<eor>
+
+<qso_date:8>20221210
+<time_on:4>0006
+<qso_date_off:8>20221210
+<time_off:4>0007
+<call:6>KK2DOG
+<mode:3>FT4
+<freq:7>7.04954
+<band:3>40m
+<rst_sent:3>-19
+<rst_rcvd:3>-05
+<gridsquare:4>FN24
+<comment:25>FT4  Sent: -19  Rcvd: -05
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221210
 <eor>
 
