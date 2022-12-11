@@ -3557,24 +3557,6 @@
 <qso_date:8>20221205
 <time_on:4>1333
 <qso_date_off:8>20221205
-<time_off:4>1334
-<call:6>MW0CNA
-<mode:3>FT4
-<freq:9>21.142186
-<band:3>15m
-<rst_sent:3>+11
-<rst_rcvd:3>+03
-<gridsquare:4>IO81
-<comment:25>FT4  Sent: +11  Rcvd: +03
-<country:5>Wales
-<dxcc:3>294
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221205
-<eor>
-
-<qso_date:8>20221205
-<time_on:4>1333
-<qso_date_off:8>20221205
 <time_off:4>1333
 <call:5>G4NVT
 <mode:3>FT4
@@ -3586,6 +3568,24 @@
 <comment:25>FT4  Sent: +04  Rcvd: +12
 <country:7>England
 <dxcc:3>223
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221205
+<eor>
+
+<qso_date:8>20221205
+<time_on:4>1333
+<qso_date_off:8>20221205
+<time_off:4>1334
+<call:6>MW0CNA
+<mode:3>FT4
+<freq:9>21.142186
+<band:3>15m
+<rst_sent:3>+11
+<rst_rcvd:3>+03
+<gridsquare:4>IO81
+<comment:25>FT4  Sent: +11  Rcvd: +03
+<country:5>Wales
+<dxcc:3>294
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221205
 <eor>
@@ -4011,24 +4011,6 @@
 <qso_date:8>20221207
 <time_on:4>1541
 <qso_date_off:8>20221207
-<time_off:4>1542
-<call:5>W7WRJ
-<mode:3>FT8
-<freq:9>21.076582
-<band:3>15m
-<rst_sent:3>-09
-<rst_rcvd:3>-18
-<gridsquare:4>DM41
-<comment:25>FT8  Sent: -09  Rcvd: -18
-<country:13>United States
-<dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221207
-<eor>
-
-<qso_date:8>20221207
-<time_on:4>1541
-<qso_date_off:8>20221207
 <time_off:4>1541
 <call:6>WB4ILW
 <mode:3>FT8
@@ -4038,6 +4020,24 @@
 <rst_rcvd:3>-03
 <gridsquare:4>EM85
 <comment:25>FT8  Sent: -14  Rcvd: -03
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221207
+<eor>
+
+<qso_date:8>20221207
+<time_on:4>1541
+<qso_date_off:8>20221207
+<time_off:4>1542
+<call:5>W7WRJ
+<mode:3>FT8
+<freq:9>21.076582
+<band:3>15m
+<rst_sent:3>-09
+<rst_rcvd:3>-18
+<gridsquare:4>DM41
+<comment:25>FT8  Sent: -09  Rcvd: -18
 <country:13>United States
 <dxcc:3>291
 <lotw_qsl_sent:1>Y
@@ -4083,24 +4083,6 @@
 <qso_date:8>20221207
 <time_on:4>1603
 <qso_date_off:8>20221207
-<time_off:4>1604
-<call:6>MW7TTA
-<mode:3>FT4
-<freq:9>14.081765
-<band:3>20m
-<rst_sent:3>-07
-<rst_rcvd:3>-05
-<gridsquare:4>IO73
-<comment:25>FT4  Sent: -07  Rcvd: -05
-<country:5>Wales
-<dxcc:3>294
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221207
-<eor>
-
-<qso_date:8>20221207
-<time_on:4>1603
-<qso_date_off:8>20221207
 <time_off:4>1603
 <call:5>4X5MZ
 <mode:3>FT4
@@ -4112,6 +4094,24 @@
 <comment:25>FT4  Sent: +02  Rcvd: +01
 <country:6>Israel
 <dxcc:3>336
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221207
+<eor>
+
+<qso_date:8>20221207
+<time_on:4>1603
+<qso_date_off:8>20221207
+<time_off:4>1604
+<call:6>MW7TTA
+<mode:3>FT4
+<freq:9>14.081765
+<band:3>20m
+<rst_sent:3>-07
+<rst_rcvd:3>-05
+<gridsquare:4>IO73
+<comment:25>FT4  Sent: -07  Rcvd: -05
+<country:5>Wales
+<dxcc:3>294
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221207
 <eor>
@@ -4827,6 +4827,24 @@
 <qso_date:8>20221211
 <time_on:4>1344
 <qso_date_off:8>20221211
+<time_off:4>1344
+<call:5>M0PWX
+<mode:3>FT8
+<freq:9>21.076589
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>+15
+<gridsquare:4>JO01
+<comment:25>FT8  Sent: -03  Rcvd: +15
+<country:7>England
+<dxcc:3>223
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>1344
+<qso_date_off:8>20221211
 <time_off:4>1346
 <call:6>WD9HSY
 <mode:3>FT8
@@ -4839,24 +4857,6 @@
 <name:13>BRIAN J BEDOE
 <country:13>United States
 <dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221211
-<eor>
-
-<qso_date:8>20221211
-<time_on:4>1344
-<qso_date_off:8>20221211
-<time_off:4>1344
-<call:5>M0PWX
-<mode:3>FT8
-<freq:9>21.076589
-<band:3>15m
-<rst_sent:3>-03
-<rst_rcvd:3>+15
-<gridsquare:4>JO01
-<comment:25>FT8  Sent: -03  Rcvd: +15
-<country:7>England
-<dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221211
 <eor>
@@ -4985,6 +4985,79 @@
 <comment:25>FT4  Sent: -08  Rcvd: -08
 <country:20>Fed. Rep. of Germany
 <dxcc:3>230
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>2226
+<qso_date_off:8>20221211
+<time_off:4>2226
+<call:5>EA3MR
+<mode:3>FT4
+<freq:8>7.048503
+<band:3>40m
+<rst_sent:3>-05
+<rst_rcvd:3>-14
+<gridsquare:4>JN12
+<comment:25>FT4  Sent: -05  Rcvd: -14
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>2229
+<qso_date_off:8>20221211
+<time_off:4>2230
+<call:6>KP4COD
+<mode:3>FT4
+<freq:8>7.047767
+<band:3>40m
+<rst_sent:3>-10
+<rst_rcvd:3>-06
+<gridsquare:4>FK78
+<comment:25>FT4  Sent: -10  Rcvd: -06
+<name:18>GERARDO A MARTINEZ
+<country:11>Puerto Rico
+<dxcc:3>202
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>2235
+<qso_date_off:8>20221211
+<time_off:4>2236
+<call:6>GI7FDZ
+<mode:3>FT8
+<freq:8>7.074841
+<band:3>40m
+<rst_sent:3>-14
+<rst_rcvd:3>-01
+<gridsquare:4>IO74
+<comment:25>FT8  Sent: -14  Rcvd: -01
+<country:16>Northern Ireland
+<dxcc:3>265
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>2236
+<qso_date_off:8>20221211
+<time_off:4>2237
+<call:6>EA3HMM
+<mode:3>FT8
+<freq:8>7.074841
+<band:3>40m
+<rst_sent:3>-02
+<rst_rcvd:3>+02
+<gridsquare:4>JN00
+<comment:25>FT8  Sent: -02  Rcvd: +02
+<country:5>Spain
+<dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221211
 <eor>
