@@ -4827,24 +4827,6 @@
 <qso_date:8>20221211
 <time_on:4>1344
 <qso_date_off:8>20221211
-<time_off:4>1344
-<call:5>M0PWX
-<mode:3>FT8
-<freq:9>21.076589
-<band:3>15m
-<rst_sent:3>-03
-<rst_rcvd:3>+15
-<gridsquare:4>JO01
-<comment:25>FT8  Sent: -03  Rcvd: +15
-<country:7>England
-<dxcc:3>223
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221211
-<eor>
-
-<qso_date:8>20221211
-<time_on:4>1344
-<qso_date_off:8>20221211
 <time_off:4>1346
 <call:6>WD9HSY
 <mode:3>FT8
@@ -4857,6 +4839,24 @@
 <name:13>BRIAN J BEDOE
 <country:13>United States
 <dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>1344
+<qso_date_off:8>20221211
+<time_off:4>1344
+<call:5>M0PWX
+<mode:3>FT8
+<freq:9>21.076589
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>+15
+<gridsquare:4>JO01
+<comment:25>FT8  Sent: -03  Rcvd: +15
+<country:7>England
+<dxcc:3>223
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221211
 <eor>
@@ -4949,6 +4949,42 @@
 <comment:25>FT8  Sent: -04  Rcvd: -08
 <country:5>Spain
 <dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>1953
+<qso_date_off:8>20221211
+<time_off:4>1953
+<call:5>R2DYC
+<mode:3>FT4
+<freq:8>7.048535
+<band:3>40m
+<rst_sent:3>-06
+<rst_rcvd:3>-06
+<gridsquare:4>KO86
+<comment:25>FT4  Sent: -06  Rcvd: -06
+<country:15>European Russia
+<dxcc:2>54
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221211
+<time_on:4>1953
+<qso_date_off:8>20221211
+<time_off:4>1954
+<call:5>DK1CO
+<mode:3>FT4
+<freq:7>7.04951
+<band:3>40m
+<rst_sent:3>-08
+<rst_rcvd:3>-08
+<gridsquare:4>JO63
+<comment:25>FT4  Sent: -08  Rcvd: -08
+<country:20>Fed. Rep. of Germany
+<dxcc:3>230
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221211
 <eor>
