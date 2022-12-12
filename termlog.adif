@@ -1506,29 +1506,6 @@
 <qso_date:8>20221120
 <time_on:4>1319
 <qso_date_off:8>20221120
-<time_off:4>1320
-<call:4>WE3J
-<mode:3>FT4
-<freq:9>21.142432
-<band:3>15m
-<rst_sent:3>-03
-<rst_rcvd:3>-11
-<gridsquare:4>EM97
-<comment:25>FT4  Sent: -03  Rcvd: -11
-<name:12>GARY L SCOTT
-<country:13>United States
-<dxcc:3>291
-<lotw_qsl_sent:1>Y
-<lotw_qslsdate:8>20221120
-<lotw_qsl_rcvd:1>Y
-<qsl_rcvd:1>Y
-<qslrdate:8>20221120
-<lotw_qslrdate:8>20221120
-<eor>
-
-<qso_date:8>20221120
-<time_on:4>1319
-<qso_date_off:8>20221120
 <time_off:4>1319
 <call:6>WA8QYJ
 <mode:3>FT4
@@ -1547,6 +1524,29 @@
 <qsl_rcvd:1>Y
 <qslrdate:8>20221121
 <lotw_qslrdate:8>20221121
+<eor>
+
+<qso_date:8>20221120
+<time_on:4>1319
+<qso_date_off:8>20221120
+<time_off:4>1320
+<call:4>WE3J
+<mode:3>FT4
+<freq:9>21.142432
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>-11
+<gridsquare:4>EM97
+<comment:25>FT4  Sent: -03  Rcvd: -11
+<name:12>GARY L SCOTT
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221120
+<lotw_qsl_rcvd:1>Y
+<qsl_rcvd:1>Y
+<qslrdate:8>20221120
+<lotw_qslrdate:8>20221120
 <eor>
 
 <qso_date:8>20221120
@@ -5060,5 +5060,170 @@
 <dxcc:3>281
 <lotw_qsl_sent:1>Y
 <lotw_qslsdate:8>20221211
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1436
+<qso_date_off:8>20221212
+<time_off:4>1438
+<call:6>PU5CVB
+<mode:3>FT8
+<freq:9>28.076213
+<band:3>10m
+<rst_sent:3>-16
+<rst_rcvd:3>-17
+<gridsquare:4>GG52
+<comment:25>FT8  Sent: -16  Rcvd: -17
+<country:6>Brazil
+<dxcc:3>108
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1444
+<qso_date_off:8>20221212
+<time_off:4>1445
+<call:5>VE3EP
+<mode:3>FT4
+<freq:9>21.141626
+<band:3>15m
+<rst_sent:3>-18
+<rst_rcvd:3>-05
+<gridsquare:4>FN13
+<comment:25>FT4  Sent: -18  Rcvd: -05
+<country:6>Canada
+<dxcc:1>1
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1445
+<qso_date_off:8>20221212
+<time_off:4>1446
+<call:5>G1OCN
+<mode:3>FT4
+<freq:9>21.141626
+<band:3>15m
+<rst_sent:3>-01
+<rst_rcvd:3>+17
+<gridsquare:6>IO80sm
+<name:4>Dave
+<comment:25>FT4  Sent: -01  Rcvd: +17
+<country:7>England
+<dxcc:3>223
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1452
+<qso_date_off:8>20221212
+<time_off:4>1453
+<call:6>EA1GUB
+<mode:3>FT8
+<freq:9>21.076278
+<band:3>15m
+<rst_sent:3>+01
+<rst_rcvd:3>+02
+<gridsquare:4>IN53
+<comment:25>FT8  Sent: +01  Rcvd: +02
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1502
+<qso_date_off:8>20221212
+<time_off:4>1503
+<call:5>KF2OG
+<mode:3>FT8
+<freq:9>21.076436
+<band:3>15m
+<rst_sent:3>-03
+<rst_rcvd:3>-07
+<gridsquare:4>FN12
+<comment:25>FT8  Sent: -03  Rcvd: -07
+<name:15>GARY L SHAPPELL
+<country:13>United States
+<dxcc:3>291
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1507
+<qso_date_off:8>20221212
+<time_off:4>1507
+<call:5>R2DLS
+<mode:3>FT4
+<freq:9>14.082032
+<band:3>20m
+<rst_sent:3>+18
+<rst_rcvd:3>+18
+<comment:25>FT4  Sent: +18  Rcvd: +18
+<gridsquare:6>LO03QP
+<country:15>European Russia
+<dxcc:2>54
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1508
+<qso_date_off:8>20221212
+<time_off:4>1508
+<call:5>EA7AH
+<mode:3>FT4
+<freq:9>14.082032
+<band:3>20m
+<rst_sent:3>-14
+<rst_rcvd:3>-13
+<gridsquare:6>IM67nd
+<name:6>MANUEL
+<comment:25>FT4  Sent: -14  Rcvd: -13
+<country:5>Spain
+<dxcc:3>281
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1509
+<qso_date_off:8>20221212
+<time_off:4>1509
+<call:6>HA7JDU
+<mode:3>FT4
+<freq:9>14.082032
+<band:3>20m
+<rst_sent:3>-11
+<rst_rcvd:3>-17
+<gridsquare:4>JN87
+<comment:25>FT4  Sent: -11  Rcvd: -17
+<country:7>Hungary
+<dxcc:3>239
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
+<eor>
+
+<qso_date:8>20221212
+<time_on:4>1510
+<qso_date_off:8>20221212
+<time_off:4>1510
+<call:5>F1NVW
+<mode:3>FT4
+<freq:9>14.082032
+<band:3>20m
+<rst_sent:3>+05
+<rst_rcvd:3>+18
+<gridsquare:4>JN18
+<comment:25>FT4  Sent: +05  Rcvd: +18
+<country:6>France
+<dxcc:3>227
+<lotw_qsl_sent:1>Y
+<lotw_qslsdate:8>20221212
 <eor>
 
